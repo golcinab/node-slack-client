@@ -12,3 +12,4 @@ module.exports = {
   RTM_MESSAGE_SUBTYPES: events.RTM_MESSAGE_SUBTYPES,
   MemoryDataStore: require('./lib/data-store/memory-data-store')
 };
+
